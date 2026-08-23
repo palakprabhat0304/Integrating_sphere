@@ -1,0 +1,5 @@
+Flat Field Analysis Results
+=========================
+Average signal level: 47770.52 DN
+Max vignetting: 89.13%
+Average PRNU: 31.42%
