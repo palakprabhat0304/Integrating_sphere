@@ -1,0 +1,8 @@
+Fixed Pattern Noise Metrics:
+========================================
+Exposure: 8265ms
+- Temporal Noise: 19865.39 DN
+- Fixed Pattern Noise: 15458.01 DN
+- PRNU: 44.91%
+- Number of frames: 100
+----------------------------------------
