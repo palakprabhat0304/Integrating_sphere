@@ -1,0 +1,5 @@
+Dark Frame Analysis Results
+==========================
+avg_read_noise      : 32.3614
+max_read_noise      : 645.5262
+avg_dark_current    : 133.1752

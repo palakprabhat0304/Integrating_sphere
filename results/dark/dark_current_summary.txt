@@ -1,0 +1,4 @@
+Dark Current Analysis Summary:
+Dark current slope: 0.0000 ADU/ms
+Dark current intercept (bias level): 0.02 ADU
+Temporal noise range: 0.06 to 0.08 ADU
