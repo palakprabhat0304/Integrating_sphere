@@ -1,0 +1,18 @@
+Dynamic Range Metrics:
+========================================
+Exposure: 30ms
+- Max Signal: 3179.52 DN
+- Read Noise: 280.54 DN
+- Dynamic Range: 11.33:1
+- Dynamic Range: 21.09 dB
+- Conversion Gain: 21.1603 DN/e-
+- R-squared: 0.0053
+----------------------------------------
+Exposure: 16500ms
+- Max Signal: 65423.00 DN
+- Read Noise: 9800.64 DN
+- Dynamic Range: 6.68:1
+- Dynamic Range: 16.49 dB
+- Conversion Gain: -1156.1319 DN/e-
+- R-squared: 0.3367
+----------------------------------------

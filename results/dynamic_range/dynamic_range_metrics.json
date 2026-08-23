@@ -1,0 +1,18 @@
+{
+    "30": {
+        "max_signal": 3179.52,
+        "read_noise": 280.5357319098518,
+        "dynamic_range": 11.333743400009082,
+        "dynamic_range_dB": 21.087467516697824,
+        "conversion_gain": 21.16026367542716,
+        "r_squared": 0.005305077704148189
+    },
+    "16500": {
+        "max_signal": 65423.0,
+        "read_noise": 9800.636231020202,
+        "dynamic_range": 6.675382950438286,
+        "dynamic_range_dB": 16.489523703328828,
+        "conversion_gain": -1156.131873178832,
+        "r_squared": 0.336676136357954
+    }
+}
