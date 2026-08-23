@@ -1,0 +1,7 @@
+===== Dark Current Report =====
+Number of dark frames: 400
+Master dark shape: (540, 720)
+Median: 0.00
+MAD: 0.00
+Threshold (median + 5×MAD): 0.00
+Hot pixels detected: 14
