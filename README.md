@@ -10,9 +10,6 @@
     <img src="https://img.shields.io/badge/Project-IIT%20Kanpur-9B1C31?style=flat-square" alt="IIT Kanpur" />
   </p>
 
-  <p><a href="#overview">Overview</a> · <a href="#characterization-workflow">Workflow</a> · <a href="#results-gallery">Results</a> · <a href="#repository-structure">Repository</a></p>
-</div>
-
 ---
 
 ## Overview
